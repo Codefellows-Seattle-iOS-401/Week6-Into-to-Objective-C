@@ -5,10 +5,8 @@
   * **Chapter 4:** Data Types and Expressions
   * **Chapter 5:** Program Looping
   * **Chapter 8:** Inheritance
-  * **Chapter 9:** Polymorphism, Dynamic Typing and Dynamic Binding
   * **Chapter 10:** More on Variables and Data Types
   * **Chapter 11:** Categories and Protocols
-  * **Chapter 12:** The Preprocessor
 * Apple Documentation
   * MapKit
 
